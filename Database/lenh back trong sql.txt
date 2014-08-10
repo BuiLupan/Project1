@@ -1,0 +1,1 @@
+backup database image TO DISK = 'F:\thu\doan.bak'
